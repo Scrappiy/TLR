@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:monospace;
+   font-size: x-large;
+    background-color: black;
+    color: #15d838;
+ }
+
+.pole{
+    padding: 1%;
+    margin: 5%;
+    border: 2px double #53d51b;
+}
+.buttonc{
+    margin-top: 2%;
+    text-align: center;
+    height: 10%;
+    width: 10%;
+    border: 3px double #1badd5;
+    cursor: pointer;
+}
+.qw{
+    font-style: italic;
+}
+.ans{
+   text-align:justify;
+   padding-left: 3%;
+   color: #f4e2f2;
+   border-bottom: 3px groove #1badd5;
+}
